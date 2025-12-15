@@ -16,5 +16,4 @@ endif()
 add_subdirectory(cpp20)
 add_subdirectory(performance)
 add_subdirectory(mini_projects)
-
-# add_subdirectory(concurrency)
+add_subdirectory(concurrency)
