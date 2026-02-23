@@ -40,7 +40,7 @@ int main() {
     shape t("t", 5);
     int e = 5;
     shape k("k", e);
-    size_t s = 6;
+ //   size_t s = 6;
    // shape exp("exp", s);
     return 0;
 }
